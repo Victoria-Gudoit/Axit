@@ -14,3 +14,7 @@
 <code>+</code> HTML
 
 <code>+</code> CSS
+
+<h2 align="center">License 📝</h2>
+  
+  >This project was developed with ❤️ by **[Victoria Gudoit](https://www.linkedin.com/in/victoria-gudoit-21a94a228/)**
